@@ -2,6 +2,10 @@
 
 Проект по созданию генеративно-состязательной сети (GAN) для генерации изображений лиц. Разработан с использованием TensorFlow и Keras. В проекте предоставлены примеры кода, инструкции по использованию и изображения, демонстрирующие качество генерации.
 
+<a target="_blank" href="https://colab.research.google.com/github/LisiyLexa/Lab1-GAN-Faces/blob/main/gan.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Технологии и библиотеки
 
 - TensorFlow 2.0
